@@ -1,0 +1,29 @@
+h1 {
+  font-family: "Space Mono", monospace;
+  font-size: 4rem !important;
+}
+
+h3 {
+  font-family: "Space Mono", monospace;
+}
+
+p {
+  font-family: "Space Mono", monospace;
+}
+
+p.sub {
+  font-size: 2rem;
+}
+
+a.sub {
+  color: black;
+  text-decoration: none;
+}
+
+a.sub:hover {
+  text-decoration: underline;
+}
+
+p.small {
+  font-size: 0.8rem;
+}

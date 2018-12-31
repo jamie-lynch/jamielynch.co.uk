@@ -1,0 +1,59 @@
+{
+  "name": "Jamie Lynch",
+  "title": "Software Engineer",
+  "contact": {
+    "email": "contact@jamielynch.co.uk",
+    "phone": "07908856281"
+  },
+  "links": {
+    "linked_in": "https://www.linkedin.com/in/jamielynch1/",
+    "github": "https://github.com/jamie-lynch"
+  },
+  "summary": "Working within Monitoring Solutions at Sky to develop alerting tools for use across the business. MEng Aeronautical Engineering from Loughborough University including a year-long placement within Flight Physics, Airbus working in Methods and Tooling. Also have experience as Production Crew with Loughborough Students' Union and as Executive Producer of Match Report with LSUTV.",
+  "skills": {
+    "technical": ["JS", "React", "PHP", "ElasticSearch"],
+    "soft": ["Team work", "Problem solving", "Communication"]
+  },
+  "experience": [
+    {
+      "title": "MONITORING DEVELOPER",
+      "dates": "2017-PRESENT",
+      "company": "SKY ",
+      "details": "In this role I work with the Alerting Team within Monitoring Solutions to develop bespoke systems for monitoring and alerting across the Sky estate.  My work focuses on providing services to allow other teams within Sky to manage their integration with the alerting team. Current technologies include PHP, React, MySQL and ElasticSearch."
+    },
+    {
+      "title": "FLIGHT PHYSICS INTERN ",
+      "dates": "2015-2016",
+      "company": "AIRBUS ",
+      "details": "My DIS placement year was completed in the Methods and Tools department of Airbus. My main project during this placement was the exploration of new methods to calculate wave drag for standard Airbus aircraft. The main aspects of this project were Understanding the existing methods and the physical factors behind the phenomena, Working independently to develop, implement and evaluate theories,Presenting findings to key stakeholders including project managers and technical experts Other tasks included, Planning and advertising of department wide social activities - Development and training of department Wiki in line with the needs of colleagues"
+    }
+  ],
+  "education": [
+    {
+      "qualification": "MENG AERONAUTICAL ENGINEERING",
+      "dates": "2012-2017",
+      "institution": "LOUGHBOROUGH UNIVERSITY",
+      "details": "1st class Honours inc. DIS Industrial Placement"
+    },
+    {
+      "qualification": "SECONDAY SCHOOL & SIXTH FORM",
+      "dates": "2005-2012",
+      "institution": "COLONEL FRANK SEELY SCHOOL",
+      "details": "A-Levels: Maths (A*), Further Maths (A*), Physics (A*) GCSEs: 6A*, 5A, 1C"
+    }
+  ],
+  "other_experience": [
+    {
+      "title": "AV TECHNICIAN / PRODUCTION MANAGER",
+      "dates": "2012-2017",
+      "company": "LSU",
+      "details": "Being responsible for the technical side of events at the Students' Union. Mainly the setup and operation of lighting and sound for events such as club nights, awards ceremonies, acoustic acts and performing arts showcases."
+    },
+    {
+      "title": "EXECUTIVE PRODUCER / HEAD OF TECHNICAL",
+      "dates": "2016-2017",
+      "company": "LSU MEDIA",
+      "details": "These voluntary roles within the media section of Loughborough Students' Union included planning, setup and running of live TV broadcasts including the Executive Elections Results and General Elections Debate shows. The Match Report series, a weekly show recapping sport on campus & a number of live games, went on to win three first places and a highly commended award at the National Student TV awards."
+    }
+  ]
+}
